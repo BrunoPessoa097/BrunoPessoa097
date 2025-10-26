@@ -11,9 +11,9 @@ Focado em:
 ## 🚧 Projetos em Destaque
 | Projeto | Descrição | Tecnologias |
 |----------|------------|--------------|
-| [ToDo API](https://github.com/BrunoPessoa097/go-todo-api) | API REST simples com autenticação JWT | Go, Gin, Docker |
-| [Portfolio em React](https://github.com/BrunoPessoa097/portfolio-react) | Página pessoal moderna com Tailwind | React, TypeScript |
-| [Controle Financeiro](https://github.com/BrunoPessoa097/finances-app) | App de controle financeiro básico | React, Node.js, MongoDB |
+| [API-estoque](https://github.com/BrunoPessoa097/API-estoque) | Uma API **_RESTFULL_** para gerenciamento de um estoque | NodeJS, Express, TypeScript|
+| [API-agenda-mongo](https://github.com/BrunoPessoa097/Api-agenda-mongo) | API para uma agenda telefonica com uso do NodeJs, express, Typescript dentre outras tecnologias com acesso ao banco de dados | NodeJs, Express, MongoDb
+| [api-agenda](https://github.com/BrunoPessoa097/api-agenda) | API agenda telefonia com typescript, node.js | TypeScript, JavaScript|
 
 ---
 
