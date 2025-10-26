@@ -28,8 +28,8 @@ Focado em:
 
 ## 🌐 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/brunopessoa097)https://www.linkedin.com/in/brunopessoa097
-- 💻 [GitHub](https://github.com/BrunoPessoa097)https://github.com/BrunoPessoa097
+- 💼 [LinkedIn](https://www.linkedin.com/in/brunopessoa097)  https://www.linkedin.com/in/brunopessoa097
+- 💻 [GitHub](https://github.com/BrunoPessoa097)  https://github.com/BrunoPessoa097
 
 ---
 
