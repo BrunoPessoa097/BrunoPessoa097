@@ -20,16 +20,16 @@ Focado em:
 ## 💡 Tecnologias que uso
 
 - **Linguagens:** Go, JavaScript, TypeScript, Python  
-- **Frameworks:** React, Gin, Express  
-- **Banco de dados:** MongoDB, PostgreSQL  
+- **Frameworks:** React, Gin, Express, ReactJs, React Native
+- **Banco de dados:** MongoDB, PostgreSQL, MySql
 - **Ferramentas:** Docker
 
 ---
 
 ## 🌐 Onde me encontrar
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/brunopessoa097)
-- 💻 [GitHub](https://github.com/BrunoPessoa097)
+- 💼 [LinkedIn](https://www.linkedin.com/in/brunopessoa097)https://www.linkedin.com/in/brunopessoa097
+- 💻 [GitHub](https://github.com/BrunoPessoa097)https://github.com/BrunoPessoa097
 
 ---
 
